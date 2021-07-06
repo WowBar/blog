@@ -1,0 +1,1 @@
+(self.webpackChunkwowbar=self.webpackChunkwowbar||[]).push([[631],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u535a\u5ba2\u9875","permalink":"/blog/README"}]}')}}]);
