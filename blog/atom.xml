@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog/blog</id>
+    <id>https://WowBar.github.io/blog/blog</id>
     <title>WowBar Blog</title>
     <updated>2021-07-06T09:09:12.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog/blog"/>
+    <link rel="alternate" href="https://WowBar.github.io/blog/blog"/>
     <subtitle>WowBar Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/blog/img/favicon.ico</icon>
+    <icon>https://WowBar.github.io/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[博客页]]></title>
         <id>博客页</id>
-        <link href="https://your-docusaurus-test-site.com/blog/blog/README"/>
+        <link href="https://WowBar.github.io/blog/blog/README"/>
         <updated>2021-07-06T09:09:12.662Z</updated>
     </entry>
 </feed>
