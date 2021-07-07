@@ -4,8 +4,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'WowBar',
-  tagline: 'https://WowBar.github.io',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'https://WowBar.github.io/blog/',
+  url: 'https://WowBar.github.io/',
   baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,7 +60,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} https://github.com/WowBar/.`,
+      copyright: `Copyright © ${new Date().getFullYear()} https://WowBar.github.io/blog/`,
     },
     prism: {
       theme: lightCodeTheme,
